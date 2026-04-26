@@ -99,7 +99,7 @@ function Hero({ headline, tigerCount }) {
   return (
     <header className="hero" ref={heroRef} id="top">
       <div className="hero__kicker">
-        <span className="dot" /> EST. 2019 — SAN FRANCISCO
+        <span className="dot" /> EST. 2026 — SOUTH AND SOUTH-EAST ASIA
       </div>
 
       <h1 className="hero__headline">{headline}</h1>
@@ -299,7 +299,7 @@ function Contact() {
             </div>
             <div>
               <div className="contact__detail-label">STUDIO</div>
-              <div className="contact__detail-val">2187 Folsom St, SF</div>
+              <div className="contact__detail-val">ONLINE</div>
             </div>
             <div>
               <div className="contact__detail-label">INSTAGRAM</div>
